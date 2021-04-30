@@ -34,7 +34,7 @@ setup(
     tests_require=['nose'],
     install_requires=[
         'bs4==0.0.1',
-        'urllib3==1.25.2',
+        'urllib3==1.25.8',
         'requests==2.22.0',
     ],
 )
